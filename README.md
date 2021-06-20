@@ -1,8 +1,8 @@
 ### Hi Welcome To My Portfolio👋
 
-- 🔭 I’m currently working on web designing and graphic designing
-- 🌱 I’m currently learning application building in java
-- 👯 I’m looking to collaborate on your job 
+- 🔭 I’m currently studying in Dharmsinh Desai University
+- 🌱 I’m currently learning about softwere testing and developement processes
+- 👯 I found my interest in graphic design as well as software testing and team management. 
 - 🤔 I’m looking for help with explore the world
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
